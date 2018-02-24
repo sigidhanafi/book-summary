@@ -8,6 +8,7 @@ Instead of excuses, provide options. Don't say it can't be done; explain what ca
 
 ### Take Responsibility
 Salah satu poin penting dari pragmatis adalah bertanggung jawab mengenai apa yang kita kerjakan. Seorang programmer pragmatis bertanggung jawab atas apa yang dikerjakannya dan tidak takut untuk mengakui kesalahan yang ditimbulkan oleh dirinya (error).
+
 Untuk itu, kita harus melakukan pekerjaan kita dengan sebaik baiknya dengan mempertimbangkan situasi yang diluar kendali kita.
 Ketika kita melakukan kesalahan, akuilah kemudian berilah beberapa solusi untuk menyelesaikan masalah tersebut.
 
