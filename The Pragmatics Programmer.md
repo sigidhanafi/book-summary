@@ -13,7 +13,10 @@ Untuk itu, kita harus melakukan pekerjaan kita dengan sebaik baiknya dengan memp
 Ketika kita melakukan kesalahan, akuilah kemudian berilah beberapa solusi untuk menyelesaikan masalah tersebut.
 
 #### Tips: Provide Options, Don't Make Lame Excuses
-Sebelum mengungkapkan alasan kenapa terjadi kesalaham kepada orang lain, cobalah pikirkan lagi, apakah alasan tersebut terdengar bagus atau bodoh?
-Cobalah untuk mencoba semua solusi yang ada. Jangan menyalahkan orang lain, tools atau bahkan bahasa pemrograman yang digunakan.
+Sebelum mengungkapkan alasan kenapa terjadi kesalaham kepada orang lain termasuk atasan, cobalah pikirkan lagi, apakah alasan tersebut terdengar bagus atau bodoh?
+
+Cobalah untuk mencoba semua solusi yang ada dan jangan menyalahkan orang lain, tools atau bahkan bahasa pemrograman yang digunakan.
+
+Jika komputer / laptop / hardisk yang kita gunakan rusak, kemudia kita tidak memiliki backup dari kode kita, itu merupakan kesalah kita. Jangan salahkan komputer / laptop / hardisk. Akuilah kesalahan karena kita tidak membackup source code kita.
 
 ### 2. Software Entropy
