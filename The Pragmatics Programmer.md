@@ -3,7 +3,7 @@ by Andrew Hunt and David Thomas
 
 I use it while learning and as quick reference,It is not intended to be an standalone substitution of the book so if you really want to learn the concepts here presented, buy and read the book and use this repository as a reference and guide.
 
-1. ## The Cat Ate My Source Code
+## 1. The Cat Ate My Source Code
 Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation.
 
 ### Take Responsibility
@@ -15,4 +15,4 @@ Ketika kita melakukan kesalahan, akuilah kemudian berilah beberapa solusi untuk 
 Sebelum mengungkapkan alasan kenapa terjadi kesalaham kepada orang lain, cobalah pikirkan lagi, apakah alasan tersebut terdengar bagus atau bodoh?
 Cobalah untuk mencoba semua solusi yang ada. Jangan menyalahkan orang lain, tools atau bahkan bahasa pemrograman yang digunakan.
 
-2. ### Software Entropy
+### 2. Software Entropy
