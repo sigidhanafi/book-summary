@@ -3,6 +3,8 @@ by Andrew Hunt and David Thomas
 
 I use it while learning and as quick reference,It is not intended to be an standalone substitution of the book so if you really want to learn the concepts here presented, buy and read the book and use this repository as a reference and guide.
 
+# Chapter 1. A Pragmatic Philosophy
+
 ## 1. The Cat Ate My Source Code
 Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation.
 
@@ -19,11 +21,15 @@ Cobalah untuk mencoba semua solusi yang ada dan jangan menyalahkan orang lain, t
 
 Jika komputer / laptop / hardisk yang kita gunakan rusak, kemudia kita tidak memiliki backup dari kode kita, itu merupakan kesalah kita. Jangan salahkan komputer / laptop / hardisk. Akuilah kesalahan karena kita tidak membackup source code kita.
 
-### 2. Software Entropy
+## 2. Software Entropy
 Entropy adalah jumlah dari kekacauan yang ada pada sistem / software. Ketika sebuah kekacauan meningkat, sistem akan menjadi lebih komplek, tidak terorganisasi dengan baik, susah untuk di maintain. Kemudian jalan satu - satunya adalah refaktoring, yang pada akhirnya akan terjadi lagi peningkatan software entropy jika developer tidak mengontrol tingkat kompleksitas sistem tersebut.
 
 **Please read about a broken window theory.**
 
-#### Tips: Don't leave "broken windows"
+### Tips: Don't leave "broken windows"
 Dalam sofware development, beberapa contoh broken windows seperti kode yang jelek, tidak terorganisir dengan baik, algoritma yang kurang baik. Jika kita menemukan kondisi tersebut, perbaikilah segera atau berilah komentar untuk kode tersebut bahwa kode tersebut perlu diperbaiki.
 
+### Putting Out Fires
+Ada sebuah cerita, dimana seorang bernama Andi memiliki rumah yang sangat bagus, dipenuhi dengan barang - barang antik. Pada suatu hari, sebuah benda di sebuah ruangan di rumah tersebut terbakar, kemudian Andi memanggil tim pemadam kebakaran. Akan tetapi, sebelum Andi menyuruh pemadam kebakaran untuk memadamkan sumber api, Andi menggelar karpet dari depan rumah menuju sumber api.
+
+Poin yang bisa kita pelajari adalah, ketika kita dan tim kita sedang mengerjakan proyek yang sudah memiliki desain kode yang bagus dan elegan, kemudian kita menemukan _a broken windows_, kita harus benar - benar harus peduli untuk tidak memulai membuat kerusakan pada kode lain, meskipun kita sedang dikejar api (deadline, release date, demo, dll). Seperti Andi pada cerita di atas, gelarlah tikar dahulu untuk menuju sumber api.
